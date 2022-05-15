@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: darkred;
+
+}
+#counter{
+    display: block;
+    text-align: center;
+}
+#counterLable{
+    font-size: 60px;
+    font-weight: 500;
+}
